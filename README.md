@@ -21,7 +21,7 @@
                 Alternatively, check [here](https://git-scm.com/download/win) on installation instructions for `git` on Windows
         * Change directory by issuing
             ```shell
-            cd AMDworkshop_demo
+            cd NUS_AMDworkshop_demo
             ```
 
     * **MacOS, Linux**
@@ -38,7 +38,7 @@
                 and clone the repository again
         * Change directory by issuing
             ```shell
-            cd AMDworkshop_demo
+            cd NUS_AMDworkshop_demo
             ```
 
 3. Install additional required packages
