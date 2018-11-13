@@ -7,3 +7,4 @@ xlrd
 sklearn
 matplotlib
 theano
+xgboost
