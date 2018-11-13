@@ -21,7 +21,7 @@
                 Alternatively, check [here](https://git-scm.com/download/win) on installation instructions for `git` on Windows
         * Change directory by issuing
             ```shell
-            cd NUS_AMDworkshop_demo
+            cd NUS_AMDworkshop
             ```
 
     * **MacOS, Linux**
@@ -38,7 +38,7 @@
                 and clone the repository again
         * Change directory by issuing
             ```shell
-            cd NUS_AMDworkshop_demo
+            cd NUS_AMDworkshop
             ```
 
 3. Install additional required packages
@@ -53,14 +53,14 @@
         * Create a conda environment:
 
             ```shell
-            conda create -c rdkit -n workshop rdkit anaconda pip python=3.5
+            conda create -c rdkit -n NUSworkshop rdkit
             ```
-            You can use any other name in place of `workshop` but be consistent hereafter
+            You can use any other name in place of `NUSworkshop` but be consistent hereafter
         * Activate the environment:
             ```shell
-            activate workshop
+            activate NUSworkshop
             ```
-            Your prompt should change, from `C:>` to `(workshop)C:>`
+            Your prompt should change, from `C:>` to `(NUSworkshop)C:>`
         * Install the required packages found in the [requirements file](requirements.txt):
             ```shell
             pip install -r requirements.txt
@@ -71,14 +71,14 @@
         * Create a conda environment:
 
             ```shell
-            conda create -c rdkit -n workshop rdkit anaconda pip python=3.5
+            conda create -c rdkit -n NUSworkshop rdkit
             ```
-            You can use any other name in place of `workshop` but be consistent hereafter
+            You can use any other name in place of `NUSworkshop` but be consistent hereafter
         * Activate the environment:
             ```shell
-            source activate workshop
+            source activate NUSworkshop
             ```
-            Your prompt should change, from `$` to `(workshop)$`
+            Your prompt should change, from `$` to `(NUSworkshop)$`
         * Install the required packages found in the [requirements file](requirements.txt):
             ```shell
             pip install -r requirements.txt
@@ -93,16 +93,16 @@
 
 ## Getting started
 
-1. Launch `Anaconda Navigator` and change environment to `workshop` by clicking on the drop down menu ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/anaconda_env.png)
+1. Launch `Anaconda Navigator` and change environment to `NUSworkshop` by clicking on the drop down menu ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/anaconda_env.png)
 
 2. **For demos using `Jupyter notebook`**
     * Launch `Jupyter notebook` ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/Jupyter.png)
-    * Navigate to the `AMDworkshop_demo` folder ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/2.png)
+    * Navigate to the `NUS_AMDworkshop_demo` folder ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/2.png)
     * Navigate to the corresponding subfolders and click on `<demo name>.ipynb` to begin interacting with the demo ([Guide](https://jupyter-notebook.readthedocs.io/en/stable/))
 
 3. **For demos using `Spyder`**
     * Launch `Spyder` ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/Spyder.png)
-    * Navigate to the `AMDworkshop_demo` folder ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/4.png)
+    * Navigate to the `NUS_AMDworkshop_demo` folder ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/4.png)
     * Navigate to the corresponding subfolders Run the `<demo name>.py` files as required from `Spyder` IDE ([Guide](https://pythonhosted.org/spyder/))
 
 ## License
