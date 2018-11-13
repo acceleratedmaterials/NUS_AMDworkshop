@@ -53,7 +53,7 @@
         * Create a conda environment:
 
             ```shell
-            conda create -n workshop anaconda pip python=3.5
+            conda create -c rdkit -n workshop rdkit anaconda pip python=3.5
             ```
             You can use any other name in place of `workshop` but be consistent hereafter
         * Activate the environment:
@@ -71,7 +71,7 @@
         * Create a conda environment:
 
             ```shell
-            conda create -n workshop anaconda pip python=3.5
+            conda create -c rdkit -n workshop rdkit anaconda pip python=3.5
             ```
             You can use any other name in place of `workshop` but be consistent hereafter
         * Activate the environment:
