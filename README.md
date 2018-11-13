@@ -93,7 +93,7 @@
 
 ## Getting started
 
-1. Launch `Anaconda Navigator` and change environment to `NUSworkshop` by clicking on the drop down menu ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/anaconda_env.png)
+1. Launch `Anaconda Navigator` and change environment to `NUSworkshop` by clicking on the drop down menu ![alt text](https://github.com/acceleratedmaterials/NUS_AMDworkshop/blob/master/pictures/envs.png)
 
 2. **For demos using `Jupyter notebook`**
     * Launch `Jupyter notebook` ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pictures/Jupyter.png)
