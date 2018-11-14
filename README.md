@@ -53,7 +53,7 @@
         * Create a conda environment:
 
             ```shell
-            conda create -c rdkit -n NUSworkshop rdkit
+            conda create -c rdkit -n NUSworkshop rdkit anaconda python=3.6
             ```
             You can use any other name in place of `NUSworkshop` but be consistent hereafter
         * Activate the environment:
@@ -71,7 +71,7 @@
         * Create a conda environment:
 
             ```shell
-            conda create -c rdkit -n NUSworkshop rdkit
+            conda create -c rdkit -n NUSworkshop rdkit anaconda python=3.6
             ```
             You can use any other name in place of `NUSworkshop` but be consistent hereafter
         * Activate the environment:
