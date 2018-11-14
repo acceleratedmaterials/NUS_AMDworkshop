@@ -9,3 +9,5 @@ matplotlib
 theano
 xgboost
 pyswarm
+deepdish
+joblib
