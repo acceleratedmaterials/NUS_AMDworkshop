@@ -10,3 +10,4 @@ theano
 xgboost
 pyswarm
 deepdish
+joblib
